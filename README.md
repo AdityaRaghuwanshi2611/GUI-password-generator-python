@@ -1,5 +1,5 @@
 # GUI-password-generator-python
-this project helps to generate random passwords according to yout information
+#this project helps to generate random passwords according to yout information
 import string
 import random
 from tkinter import *
